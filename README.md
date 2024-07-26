@@ -9,7 +9,8 @@ Técnologias utilizadas neste projeto: MySQL, Java, JSP, JDBC, Tomcat, Servlet, 
 ```sql
 CREATE DATABASE IF NOT EXISTS usuarios;
 USE usuarios;
-CREATE TABLE usuarios(id INT PRIMARY KEY AUTO_INCREMENT,
+CREATE TABLE usuarios(
+id INT PRIMARY KEY AUTO_INCREMENT,
 senha VARCHAR(50),
 email VARCHAR(50))
 ```
