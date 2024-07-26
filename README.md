@@ -1,8 +1,8 @@
 # Página de Registro e Login com Banco de Dados
 
-# Técnologias utilizadas neste projeto: MySQL, Java, JSP, JDBC, Tomcat, Servlet, HTML, CSS, Javascript e SweetAlert2.
+## Técnologias utilizadas neste projeto: MySQL, Java, JSP, JDBC, Tomcat, Servlet, HTML, CSS, Javascript e SweetAlert2.
 
-# Instruções para Configuração e Execução
+## Instruções para Configuração e Execução
 
 ## 1 - Criar o banco de dados se não existir (MySQL Workbench):
 
