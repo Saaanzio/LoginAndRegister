@@ -17,7 +17,7 @@ email VARCHAR(50))
 
 2 - Colocar o usuario e senha do seu MySQL em um arquivo conexao.properties na pasta src/main/resources (seguir conexao_exemplo.properties presente na mesma pasta)
 
-3 - Instalar o plugin Tomcat (Aparecerá uma notificação porcausa do maven)
+3 - Instalar o plugin Tomcat (Aparecerá uma notificação do maven)
 
 4 - Executar!
 
